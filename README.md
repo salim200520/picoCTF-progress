@@ -5,8 +5,8 @@
 | 1 | Lets Warm Up | General Skills | |
 | 2 | Warm | General Skills | |
 | 3 | Warmed Up | General Skills | |
-| 4 | Challenge 4 | | |
-| 5 | Challenge 5 | | |
+| 4 | Obedient Cat |General Skills | |
+| 5 | Wave a flag |General Skills | |
 | 6 | Challenge 6 | | |
 | 7 | Challenge 7 | | |
 | 8 | Challenge 8 | | |
