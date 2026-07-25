@@ -8,7 +8,7 @@
 | 4 | Obedient Cat |General Skills | |
 | 5 | Wave a flag |General Skills | |
 | 6 | convertme.py |General Skills | |
-| 7 | Challenge 7 | | |
+| 7 | whats a net cat |General Skills | |
 | 8 | Challenge 8 | | |
 | 9 | Challenge 9 | | |
 | 10 | Challenge 10 | | |
