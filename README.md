@@ -9,9 +9,9 @@
 | 5 | Wave a flag |General Skills | |
 | 6 | convertme.py |General Skills | |
 | 7 | whats a net cat |General Skills | |
-| 8 | Challenge 8 | | |
-| 9 | Challenge 9 | | |
-| 10 | Challenge 10 | | |
+| 8 | Nice netcat |General Skills | |
+| 9 | Tab,Tab ,Attack |General Skills | |
+| 10 | Python Wrangling |General Skills | |
 | 11 | Challenge 11 | | |
 | 12 | Challenge 12 | | |
 | 13 | Challenge 13 | | |
