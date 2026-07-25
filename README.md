@@ -17,8 +17,8 @@
 | 13 | MultiCode |General Skills |200 |
 | 14 | EVER RSA CAN BE BROKEN|cryptography |200 |
 | 15 | Shared Secrets |cryptography |100 |
-| 16 | Challenge 16 | | |
-| 17 | Challenge 17 | | |
+| 16 | Hash crack |cryptography |100 |
+| 17 | The Numbers |cryptography |50 |
 | 18 | Challenge 18 | | |
 | 19 | Challenge 19 | | |
 | 20 | Challenge 20 | | |
