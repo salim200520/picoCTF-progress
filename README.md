@@ -15,8 +15,8 @@
 | 11 | Mod 26 |cryptography |10 |
 | 12 | 13 |cryptography |100 |
 | 13 | MultiCode |General Skills |200 |
-| 14 | Challenge 14 | | |
-| 15 | Challenge 15 | | |
+| 14 | EVER RSA CAN BE BROKEN|cryptography |200 |
+| 15 | Shared Secrets |cryptography |100 |
 | 16 | Challenge 16 | | |
 | 17 | Challenge 17 | | |
 | 18 | Challenge 18 | | |
