@@ -12,9 +12,9 @@
 | 8 | Nice netcat |General Skills | |
 | 9 | Tab,Tab ,Attack |General Skills | |
 | 10 | Python Wrangling |General Skills | |
-| 11 | Challenge 11 | | |
-| 12 | Challenge 12 | | |
-| 13 | Challenge 13 | | |
+| 11 | Mod 26 |cryptography |10 |
+| 12 | 13 |cryptography |100 |
+| 13 | MultiCode |General Skills |200 |
 | 14 | Challenge 14 | | |
 | 15 | Challenge 15 | | |
 | 16 | Challenge 16 | | |
