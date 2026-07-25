@@ -19,7 +19,7 @@
 | 15 | Shared Secrets |cryptography |100 |
 | 16 | Hash crack |cryptography |100 |
 | 17 | The Numbers |cryptography |50 |
-| 18 | Challenge 18 | | |
+| 18 | interencdec |cryptography |50 |
 | 19 | Challenge 19 | | |
 | 20 | Challenge 20 | | |
 | 21 | Challenge 21 | | |
