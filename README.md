@@ -7,7 +7,7 @@
 | 3 | Warmed Up | General Skills | |
 | 4 | Obedient Cat |General Skills | |
 | 5 | Wave a flag |General Skills | |
-| 6 | Challenge 6 | | |
+| 6 | convertme.py |General Skills | |
 | 7 | Challenge 7 | | |
 | 8 | Challenge 8 | | |
 | 9 | Challenge 9 | | |
