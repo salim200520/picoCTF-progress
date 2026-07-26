@@ -20,7 +20,7 @@
 | 16 | Hash crack |cryptography |100 |
 | 17 | The Numbers |cryptography |50 |
 | 18 | interencdec |cryptography |50 |
-| 19 | Challenge 19 | | |
+| 19 | Undo |General Skills |100 |
 | 20 | Challenge 20 | | |
 | 21 | Challenge 21 | | |
 | 22 | Challenge 22 | | |
