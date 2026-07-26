@@ -21,7 +21,7 @@
 | 17 | The Numbers |cryptography |50 |
 | 18 | interencdec |cryptography |50 |
 | 19 | Undo |General Skills |100 |
-| 20 | Challenge 20 | | |
+| 20 | Password Profiler |General Skills |100 |
 | 21 | Challenge 21 | | |
 | 22 | Challenge 22 | | |
 | 23 | Challenge 23 | | |
