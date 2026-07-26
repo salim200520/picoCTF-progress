@@ -23,14 +23,16 @@
 | 19 | Undo |General Skills |100 |
 | 20 | Password Profiler |General Skills |100 |
 | 21 | Inspect HTML |Web Exploitation |100 |
-| 22 | shift registers |shift registers |200 |
+| 22 | shift registers |Cryptography |200 |
 | 23 | Challenge 23 | | |
 
 
 
-| Metric | Value |
-|--------|------:|
-| Total Challenges | 23 |
-| Completed | 3 |
-| Remaining | 20 |
-| Total Score | |
+
+
+| Difficulty | Challenges Solved | Total Marks |
+
+| Easy | 11 | 1110 |
+| Medium | 1 | 200 |
+| Hard | 0 | 0 |
+| Total | 12 | 1310 |
