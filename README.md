@@ -22,7 +22,7 @@
 | 18 | interencdec |cryptography |50 |
 | 19 | Undo |General Skills |100 |
 | 20 | Password Profiler |General Skills |100 |
-| 21 | Challenge 21 | | |
+| 21 | Inspect HTML |Web Exploitation |100 |
 | 22 | Challenge 22 | | |
 | 23 | Challenge 23 | | |
 
