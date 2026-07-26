@@ -23,7 +23,7 @@
 | 19 | Undo |General Skills |100 |
 | 20 | Password Profiler |General Skills |100 |
 | 21 | Inspect HTML |Web Exploitation |100 |
-| 22 | Challenge 22 | | |
+| 22 | shift registers |shift registers |200 |
 | 23 | Challenge 23 | | |
 
 
